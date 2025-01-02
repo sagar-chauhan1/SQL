@@ -1,0 +1,1 @@
+alter table myemp1 add constraint rangeof_salary check(salary BETWEEN 3000 AND 10000);

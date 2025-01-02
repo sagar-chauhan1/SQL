@@ -1,0 +1,1 @@
+alter table myemp1 add constraint ename_upper check(firstname = upper(firstname));

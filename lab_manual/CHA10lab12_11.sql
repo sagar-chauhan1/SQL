@@ -1,0 +1,1 @@
+alter table logemp add (job_id varchar(10));

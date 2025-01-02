@@ -1,0 +1,1 @@
+alter table myemp1 add (commission number(10));
